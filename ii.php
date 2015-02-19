@@ -7,4 +7,5 @@ echo "YES";
  		$zn = $zn."-Прошли функцию"
  		return $zn;
  	}
+ 	
  }
