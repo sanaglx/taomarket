@@ -14,4 +14,10 @@ echo "YES";
  		$value = $b.$value."YES!";
  		return $value;
  	}
+    	public function pluS($value=0,$value1=0)
+ 	{
+           return $value+$vakue1
+           
+ 	}
+    
  }
